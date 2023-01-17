@@ -1,0 +1,9 @@
+.header {
+  color: #ffffff;
+}
+.header-default {
+  background-color: #5d7092 !important;
+}
+.header-red {
+  background-color: red !important;
+}
